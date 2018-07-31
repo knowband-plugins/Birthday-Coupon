@@ -1,0 +1,246 @@
+
+
+			
+			    
+				
+				
+				Message from {shop_name}
+				
+				@media only screen and (max-width: 300px){
+					body {
+					    width:218px !important;
+					    margin:auto !important;
+					}
+					.table {width:195px !important;margin:auto !important; background-color:#fff;}
+				}
+				@media only screen and (min-width: 301px) and (max-width: 500px) {
+				    body {width:308px!important;margin:auto!important;}
+				    .table {width:285px!important;margin:auto!important;}
+				}
+				@media only screen and (min-width: 501px) and (max-width: 768px) {
+				    body {width:478px!important;margin:auto!important;}
+				    .table {width:450px!important;margin:auto!important;}
+				    .logo, .titleblock, .linkbelow, .box, .footer, .space_footer{width:auto!important;display: block!important;}
+				}
+				@media only screen and (max-device-width: 480px) {
+				    body {width:308px!important;margin:auto!important;}
+				    .table {width:285px;margin:auto!important;}
+				}
+				
+			    
+			    
+				
+				    
+					&nbsp;
+					
+					    
+						
+						    
+							
+							    
+							
+						    
+						
+					    
+					    
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hi {Customer_Name},xx
+{Occasion_Wishes}
+The big day is around the corner - time to make it even more special.
+Celebrate the occasion with us.
+ Our gift to you: {Discount_Amount_Or_Free_Gift}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coupon Code:
+{Coupon_Code}
+
+
+
+
+Coupon will expires on: {expiry_date}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It’s simple! Just enter the unique code mentioned above and enjoy the day.
+Happy Shopping!!   Best regards {shop_name} (Click here to visit the store) Ph: +xx-xxx xxx xxxx Email: Support email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Happy Shopping!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+					&nbsp;
+				    
+				
+			
+			
+                        
