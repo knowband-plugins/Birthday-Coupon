@@ -1,4 +1,4 @@
-Prestashop Free Birthday Coupon Addon for PS1.6
+# Prestashop Free Birthday Coupon Addon for PS1.6
 
 Knowband offers Birthday Coupon Module which allows you to create automatically coupon codes for your customers' birthday. The Birthday coupon code is very simple to use, admin can define the type of discount (amount or percentage), duration for which coupon code will be valid. Admin can choose when to send the coupon code to the customer, and on the selected day customers will automatically receive an email with the coupon code that they can use to place their order on your store.
 Free Birthday coupon module allows the Prestashop store admin to send the special coupon codes to the customers on their birthday. A small nice surprise means a lot and makes your customer happy. Free Birthday coupon addon allows store admin to send the Birthday wishes to their customers through emails with the special discount coupon codes. Coupon code will be generated on the percentage bases and will be valid for the 7 days. The paid version of the Birthday coupon module offers advance features like sending the email on completion of 1 year of registration along with the option to generate the coupon code based on percentage, fixed or free gift.
@@ -8,7 +8,7 @@ Please click on the link below to check the advance features of the paid version
 [https://www.knowband.com/prestashop-birthday-coupon](https://www.knowband.com/prestashop-birthday-coupon)
 
 
-Key Benefits of the Free Birthday Coupon Module:
+## Key Benefits of the Free Birthday Coupon Module:
 
 * The free birthday present module is very easy to install and configure.
 * You can enable/disable the PrestaShop free birthday coupon module.
